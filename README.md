@@ -1,3 +1,16 @@
+# Bioinformatics 
+
+## The Problem
+In recent years, the world of biology has been overflowing with massive quantities of data, far too large for humans to be able to comb through like they did in the past.
+
+
+
+
+ - [1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1122955/
+
+
+
+
 # Blog
 you can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
