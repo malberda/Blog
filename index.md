@@ -7,7 +7,11 @@ In recent years, the world of biology has been overflowing with massive quantiti
 Bioinformatics is an interdisciplinary field of study that primarily revolves around using computer science and computational mathematics in order to analyze, capture, and interpret biological data. This is done by computers analyzing things like the human genome, which contains roughly 6 billion individual 'letters'. This would be impossible for a human to do any analysis on the genome sequence as a whole, only being able to analyze individual portions. According to the national Institue of Health, bioinformaticians often do the work themselves, using computational tools in order to assist them in their work "retrieving, sorting out, analysing, predicting, and storing DNA and protein sequence data".
 
 ### On a more technical level, what is Bioinformatics?
-Bioinformatics uses a wide variety of tools such as: databases, web apps, 
+Bioinformatics is a field that utilizes a wide variety of categories of software tools such as: databases, web apps, data mining software, and an array of visualization tools to name a few. To go through the general types and how they are used in this field:
+Databases - 
+Web Apps - 
+Data Mining Software - 
+Visualization Tools - 
 
 
 
