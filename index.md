@@ -15,7 +15,8 @@ Bioinformatics is a field that utilizes a wide variety of categories of software
 
  - // Data Mining Software - 
 
- - Visualization Tools - There are a number of visualization tools, some dealing with taking data from complex topics like 3D genomics (a special way of configuring the genome for considering the dynamic nature of its existence), high-throughput imaging (a method for catching images on a micro scale like the human genome), and complex data sets. These tools need to take these complex sets of data and turn them into an understantible visualization for the scientists. These can take a variety of forms, 6 of which are shown by the following image from [5], 
+ - Visualization Tools - There are a number of visualization tools, some dealing with taking data from complex topics like 3D genomics (a special way of configuring the genome for considering the dynamic nature of its existence), high-throughput imaging (a method for catching images on a micro scale like the human genome), and complex data sets. These tools need to take these complex sets of data and turn them into an understantible visualization for the scientists. These can take a variety of forms, 6 of which are shown by the following image from [5]:
+
 ![6 Visualization Methods](https://www.frontiersin.org/files/Articles/669186/fbinf-01-669186-HTML-r1/image_m/fbinf-01-669186-g002.jpg)
 
 
