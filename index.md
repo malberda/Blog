@@ -8,7 +8,7 @@ Bioinformatics is an interdisciplinary field of study that primarily revolves ar
 
 ### On a more technical level, what is Bioinformatics?
 Bioinformatics is a field that utilizes a wide variety of categories of software tools such as: databases, web apps, data mining software, and an array of visualization tools to name a few. To go through the general types and how they are used in this field:
-Databases - 
+Databases - Databases are often used to store biological data, and there are multiple databases with different focuses such as sharing information with other databases or vidualizing the results of the data analysis. A good example of a database is InterPro, which is a collaborative
 Web Apps - 
 Data Mining Software - 
 Visualization Tools - 
@@ -17,10 +17,10 @@ Visualization Tools -
 
 
 
- - [National Institute of Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1122955/) basic overview
- - [Examination of blood samples using deep learning and mobile microscopy](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04602-4) Specific case example
- - [Why bioinformatics is important](https://www.earlham.ac.uk/articles/why-bioinformatics-important) explanation of results of bioinformatics
- - [A Review of Bioinformatics Tools for Bio-Prospecting from Metagenomic Sequence Data](https://www.frontiersin.org/articles/10.3389/fgene.2017.00023/full) types of tools
+ - [1] [National Institute of Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1122955/) 
+ - [2] [Examination of blood samples using deep learning and mobile microscopy](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04602-4) 
+ - [3] [Why bioinformatics is important](https://www.earlham.ac.uk/articles/why-bioinformatics-important) 
+ - [4] [A Review of Bioinformatics Tools for Bio-Prospecting from Metagenomic Sequence Data](https://www.frontiersin.org/articles/10.3389/fgene.2017.00023/full) 
 
 
 # Blog
