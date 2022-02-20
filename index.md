@@ -8,9 +8,13 @@ Bioinformatics is an interdisciplinary field of study that primarily revolves ar
 
 ### On a more technical level, what is Bioinformatics?
 Bioinformatics is a field that utilizes a wide variety of categories of software tools such as: databases, web apps, and an array of visualization tools to name a few. To go through the general types and how they are used in this field:
+
 Databases - Databases are often used to store biological data, and there are multiple databases with different focuses such as sharing information with other databases or vidualizing the results of the data analysis. A good example of a database is InterPro, which is a collaborative database that pulls information between 12 other databases allowing for a greater collaborative effort in the study of proteins and other biological information. [4]
+
 Web Apps - The Web Apps that exist serve a purpose of giving any user the ability to acess databases and large quantity of information and analyses from other scientists. An example of this is the software MG-RAST, which allows users to analyze genomes using their tools. (might add specific examples)
+
 // Data Mining Software - 
+
 Visualization Tools - There are a number of visualization tools, some dealing with taking data from complex topics like 3D genomics (a special way of configuring the genome for considering the dynamic nature of its existence), high-throughput imaging (a method for catching images on a micro scale like the human genome), and complex data sets. These tools need to take these complex sets of data and turn them into an easily understantibly 
 
 
