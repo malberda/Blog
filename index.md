@@ -17,10 +17,10 @@ Visualization Tools -
 
 
 
- - [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1122955/) basic overview
- - [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04602-4) Specific case example
- - [link](https://www.earlham.ac.uk/articles/why-bioinformatics-important) explanation of results of bioinformatics
- - [link](https://www.frontiersin.org/articles/10.3389/fgene.2017.00023/full) types of tools
+ - [National Institute of Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1122955/) basic overview
+ - [Examination of blood samples using deep learning and mobile microscopy](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04602-4) Specific case example
+ - [Why bioinformatics is important](https://www.earlham.ac.uk/articles/why-bioinformatics-important) explanation of results of bioinformatics
+ - [A Review of Bioinformatics Tools for Bio-Prospecting from Metagenomic Sequence Data](https://www.frontiersin.org/articles/10.3389/fgene.2017.00023/full) types of tools
 
 
 # Blog
