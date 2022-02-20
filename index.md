@@ -7,11 +7,11 @@ In recent years, the world of biology has been overflowing with massive quantiti
 Bioinformatics is an interdisciplinary field of study that primarily revolves around using computer science and computational mathematics in order to analyze, capture, and interpret biological data. This is done by computers analyzing things like the human genome, which contains roughly 6 billion individual 'letters'. This would be impossible for a human to do any analysis on the genome sequence as a whole, only being able to analyze individual portions. According to the national Institue of Health, bioinformaticians often do the work themselves, using computational tools in order to assist them in their work "retrieving, sorting out, analysing, predicting, and storing DNA and protein sequence data".
 
 ### On a more technical level, what is Bioinformatics?
-Bioinformatics is a field that utilizes a wide variety of categories of software tools such as: databases, web apps, data mining software, and an array of visualization tools to name a few. To go through the general types and how they are used in this field:
-Databases - Databases are often used to store biological data, and there are multiple databases with different focuses such as sharing information with other databases or vidualizing the results of the data analysis. A good example of a database is InterPro, which is a collaborative
-Web Apps - 
-Data Mining Software - 
-Visualization Tools - 
+Bioinformatics is a field that utilizes a wide variety of categories of software tools such as: databases, web apps, and an array of visualization tools to name a few. To go through the general types and how they are used in this field:
+Databases - Databases are often used to store biological data, and there are multiple databases with different focuses such as sharing information with other databases or vidualizing the results of the data analysis. A good example of a database is InterPro, which is a collaborative database that pulls information between 12 other databases allowing for a greater collaborative effort in the study of proteins and other biological information. [4]
+Web Apps - The Web Apps that exist serve a purpose of giving any user the ability to acess databases and large quantity of information and analyses from other scientists. An example of this is the software MG-RAST, which allows users to analyze genomes using their tools. (might add specific examples)
+// Data Mining Software - 
+Visualization Tools - There are a number of visualization tools, some dealing with taking data from complex topics like 3D genomics (a special way of configuring the genome for considering the dynamic nature of its existence), high-throughput imaging (a method for catching images on a micro scale like the human genome), and complex data sets. These tools need to take these complex sets of data and turn them into an easily understantibly 
 
 
 
@@ -21,7 +21,7 @@ Visualization Tools -
  - [2] [Examination of blood samples using deep learning and mobile microscopy](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04602-4) 
  - [3] [Why bioinformatics is important](https://www.earlham.ac.uk/articles/why-bioinformatics-important) 
  - [4] [A Review of Bioinformatics Tools for Bio-Prospecting from Metagenomic Sequence Data](https://www.frontiersin.org/articles/10.3389/fgene.2017.00023/full) 
-
+ - [5] [Grand Challenges in Bioinformatics Data Visualization](https://www.frontiersin.org/articles/10.3389/fbinf.2021.669186/full)
 
 # Blog
 you can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
