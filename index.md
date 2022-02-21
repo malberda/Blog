@@ -21,12 +21,14 @@ Bioinformatics is a field that utilizes a wide variety of categories of software
  <img src="https://www.frontiersin.org/files/Articles/669186/fbinf-01-669186-HTML-r1/image_m/fbinf-01-669186-g002.jpg" />
 </p>
 
-These tools are used by bioinformatitians to harness vast quanitities of data across thousands of individuals or speciest in order to gain a deeper understanding and knowledge of the biology that makes us. The analysis creates metadata about the raw data that gives scientists an easier ability to see similarities and differences in the data between individuals of a species, and between species themselves. This allows biologists to focus more on data driven research, rather than the traditional hypothesis driven research. [3]
+These tools are used by bioinformatitians to harness vast quanitities of data across thousands of individuals or speciest in order to gain a deeper understanding and knowledge of the biology that makes us. The analysis creates metadata about the raw data that gives scientists an easier ability to see similarities and differences in the data between individuals of a species, and between species themselves. This allows biologists to focus more on data driven research, rather than the traditional hypothesis driven research [3].
 
 ### The benefits of bioinformatics
-Biometrics as a field allows us to gain a better understanding of the fundamental systems that make us who we are on a biological level. Even thought it is a recent field, and even more recent for high processing power on individual machines, there is a great amount of potential to be found in it, and more applications are being found regularly. A specific example of a recent discovery is using deep learning to potentially use algorithms to provide an analysis of human blood samples using just a normal microscope, a camera, and a smartphone. [2]
+Biometrics as a field allows us to gain a better understanding of the fundamental systems that make us who we are on a biological level. Even thought it is a recent field, and even more recent for high processing power on individual machines, there is a great amount of potential to be found in it, and more applications are being found regularly. A specific example of a recent discovery is using deep learning to potentially use algorithms to provide an analysis of human blood samples using just a normal microscope, a camera, and a smartphone [2]. The researchers were able to use a basic smartphone and determine the number of different types of blood cells, while a more complicated (and expensive) machine could do a lot more in the future. 
 
-This is 
+The systems they used for this were not designed for this specific type of activity, and had to be modified heavily. In the future, with systems designed for detecting multiple small subjects in a larger image, the application of this could result in a blood test being far more accessible.
+
+
 
 
 
