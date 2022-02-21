@@ -26,15 +26,11 @@ These tools are used by bioinformaticians to harness vast quantities of data acr
 ### The benefits of bioinformatics
 Biometrics as a field allows us to gain a better understanding of the fundamental systems that make us who we are on a biological level. Even though it is a recent field, and even more recent for high processing power on individual machines, there is a great amount of potential to be found in it, and more applications are being found regularly. A specific example of a recent discovery is using deep learning to potentially use algorithms to provide an analysis of human blood samples using just a normal microscope, a camera, and a smartphone [2]. The researchers were able to use a basic smartphone and determine the number of different types of blood cells, while a more complicated (and expensive) machine could do a lot more in the future. 
 
-The systems they used for this were not designed for this specific type of activity and had to be modified heavily. In the future, with systems designed for detecting multiple small subjects in a larger image, the application of this could result in a blood test being far more accessible.
-
-
-
+The systems they used for this were not designed for this specific type of activity and had to be modified heavily. In the future, with systems designed for detecting multiple small subjects in a larger image, the application of this could result in a blood test being far more accessible. A decent microscope and a better camera could lead to cell counts and other blood tests being doable at home or without necessarily having professional help.
 
 
 ## Summary
-
-
+In Summary, I believe firmly that this field has a great deal of potential in the coming years, especially with the ever growing access to powerful technology and access to the internet. The kinds of results coming from studies like the 'examination of blood samples' shows that there is potential for at-home tests to replace simple but expensive tests that might normally have to be done by a professional. In addition, The ability for scientists to analyze massive amounts of data has a great deal of potential for prediction of diseases using neural networks and deep learning. 
     
 
  - [1] [National Institute of Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1122955/) 
@@ -42,35 +38,3 @@ The systems they used for this were not designed for this specific type of activ
  - [3] [Why bioinformatics is important](https://www.earlham.ac.uk/articles/why-bioinformatics-important) 
  - [4] [A Review of Bioinformatics Tools for Bio-Prospecting from Metagenomic Sequence Data](https://www.frontiersin.org/articles/10.3389/fgene.2017.00023/full) 
  - [5] [Grand Challenges in Bioinformatics Data Visualization](https://www.frontiersin.org/articles/10.3389/fbinf.2021.669186/full)
-
-# Blog
-you can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
-Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see Basic writing and formatting syntax.
-Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
-Support or Contact
-
-Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
