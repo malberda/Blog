@@ -44,4 +44,4 @@ In summary, I believe firmly that this field has a great deal of potential in th
  - [3] [Why bioinformatics is important](https://www.earlham.ac.uk/articles/why-bioinformatics-important) 
  - [4] [A Review of Bioinformatics Tools for Bio-Prospecting from Metagenomic Sequence Data](https://www.frontiersin.org/articles/10.3389/fgene.2017.00023/full) 
  - [5] [Grand Challenges in Bioinformatics Data Visualization](https://www.frontiersin.org/articles/10.3389/fbinf.2021.669186/full)
- - [6] [Bioinformatics Articles] (https://bmcbioinformatics.biomedcentral.com/articles?searchType=journalSearch&sort=PubDate&page=2)
+ - [6] [Bioinformatics Articles](https://bmcbioinformatics.biomedcentral.com/articles?searchType=journalSearch&sort=PubDate&page=2)
