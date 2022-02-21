@@ -11,9 +11,7 @@ Bioinformatics is a field that utilizes a wide variety of categories of software
 
  - Databases - Databases are often used to store biological data. There are multiple databases with different focuses such as sharing information with other databases or visualizing the results of the data analysis. A good example of a database is InterPro, which is a collaborative database that pools information from 12 other major databases allowing for a greater collaborative effort in the study of proteins and other biological information [4].
 
- - Web Apps - The Web Apps that exist serve a purpose of giving any user the ability to access databases and large quantity of information and analyses from other scientists. An example of this is the software MG-RAST, which allows users to analyze genomes using their tools. (might add specific examples)
-
- - // Data Mining Software - 
+ - Web Apps - The Web Apps that exist serve a purpose of giving any user the ability to access databases and large quantity of information and analyses from other scientists. An example of this is the software MG-RAST, which allows users to analyze genomes using their tools.
 
  - Visualization Tools - There are a number of visualization tools, some dealing with taking data from complex topics like 3D genomics (a special way of configuring the genome for considering the dynamic nature of its existence), high-throughput imaging (a method for catching images on a micro scale like the human genome), and complex data sets. These tools need to take complex sets of data and turn them into an understandable visualization for the scientists. These can take a variety of forms, 6 of which are shown by the following image from [5]:
 
@@ -27,7 +25,6 @@ These tools are used by bioinformaticians to harness vast quantities of data acr
 Biometrics as a field allows us to gain a better understanding of the fundamental systems that make us who we are on a biological level. Even though it is a recent field, and even more recent for high processing power on individual machines, there is a great amount of potential to be found in it, and more applications are being found regularly. A specific example of a recent discovery is using deep learning to potentially use algorithms to provide an analysis of human blood samples using just a normal microscope, a camera, and a smartphone [2]. The researchers were able to use a basic smartphone to determine the number of different types of blood cells, while a more complicated (and expensive) machine could do a lot more in the future. The systems they used for this were not designed for this specific type of activity and had to be modified heavily. 
 
 In the future, with systems designed for detecting multiple small subjects in a larger image, the application of this could result in a blood test being far more accessible. A decent microscope and a better camera could lead to cell counts and other blood tests being doable at home or without necessarily having professional help.
-
 
 ## Summary
 In summary, I believe firmly that this field has a great deal of potential in the coming years, especially with the ever growing access to powerful technology and access to the internet. The kinds of results coming from studies like the 'examination of blood samples' shows that there is potential for at-home tests to replace the simple but expensive tests that normally have to be done by a professional. In addition, The ability for scientists to analyze massive amounts of data has a great deal of potential for prediction of diseases using neural networks and deep learning. 
